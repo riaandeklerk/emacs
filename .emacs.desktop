@@ -1,0 +1,343 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Jan 14 09:50:53 2019
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23611 42157 89609 0) (desktop . "208") "riaandeklerk@Riaans-MacBook-Pro.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#E6E1DC") (background-color . "#232323") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "white") (environment) (frameset--id . "0465-8FD4-E97D-561E") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "Riaans-MacBook-Pro.local") (explicit-name) (tool-bar-position . top) (height . 55) (width . 200) (left . 0) (top . 23)) ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 14) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 56) (min-pixel-width . 140) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 98) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 1431) (pixel-height . 756) (total-width . 204) (total-height . 54) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 714) (pixel-height . 756) (total-width . 102) (total-height . 54) (normal-height . 1.0) (normal-width . 0.49895178197064993) (buffer "*Buffer List*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 3 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 717) (pixel-height . 756) (total-width . 102) (total-height . 54) (normal-height . 1.0) (normal-width . 0.5010482180293501) (buffer "selenium.rb" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 3 t nil 0 nil) (vscroll . 0) (dedicated) (point . 9336) (start . 8619)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("selected_browser" "parent_ctm" "forecasting_plans" "yearly" "chea" "calculate" "brands_gr" "cheapest_tariff_" "sorted_native_plans_with_annual_savings" "other tariffs a" "vanilla_only_brand?" "show" "cheapes" "first_detail_row_de" "type" "state"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/project/powershop/" "~/project/powershop/core/app/presenters/customer_usage_tab_defaults.rb" "~/project/powershop/core/app/concepts/features/segments/consumer_group.rb" "~/project/powershop/uk/app/views/cheapest_tariffs/best_rates.html.erb" "~/project/powershop/uk/app/controllers/cheapest_tariffs_controller.rb" "~/project/powershop/core/app/presenters/customer_usage_tab_defaults.rb" "~/project/powershop/core/app/models/plan.rb" "~/project/powershop/core/app/concepts/features/segments/brands_group.rb" "~/project/powershop/core/app/concepts/features/segments/consumer_group.rb" "~/project/powershop/script/setup.sh" "~/project/powershop/db/migrate/20190107024920_create_cheapest_tariff_all_brands_release_toggle.rb" "~/project/powershop/db/migrate/20190107024920_create_cheapest_tariff_all_brands_realease_toggle.rb" "~/project/powershop/core/app/concepts/features/segments/brand.rb" "~/project/powershop/uk/application.rb" "~/project/powershop/nz/application.rb" "~/project/powershop/core/app/concepts/features/segments/consumer_group.rb" "~/project/powershop/core/app/concepts/features/segments.rb" "~/project/powershop/app/views/statement/_refund_txn.html.erb" "~/project/powershop/app/presenters/txn_presenter/base.rb" "~/project/powershop/app/views/statement/_txn.html.erb" "~/project/powershop/app/views/statement/_txn_listing.html.erb" "~/project/powershop"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/features/support/selenium.rb"
+  "selenium.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  9336
+  '(4447 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (4447 9336 9336 9336))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/presenters/customer_usage_tab_defaults.rb"
+  "customer_usage_tab_defaults.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  1411
+  '(1637 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1541 1416 1416 1401 1416 1416 1416 1730 1730 1730 1416 1416 1416 1 1411 1411))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/uk/application.rb"
+  "application.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  1727
+  '(1724 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1615 1615 1615 1615 1615 1615 1615 1615 1615 1615 1615 1615 1615 1615 1615 1615))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/uk/spec/models/customer_stored_mailer_spec.rb"
+  "customer_stored_mailer_spec.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-mode projectile-mode auto-revert-mode)
+  1408
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/models/plan/cheapest_tariff_support.rb"
+  "cheapest_tariff_support.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  1224
+  '(722 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (745 722 722 522 568))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/uk/app/controllers/cheapest_tariffs_controller.rb"
+  "cheapest_tariffs_controller.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  1114
+  '(713 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (713 713 713 713 713 713 713 713 713 713 713 713 1115 713 713 713))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/uk/app/services/calculate_vanilla_plan_savings.rb"
+  "calculate_vanilla_plan_savings.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  949
+  '(1170 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (283 1170 1170 1170 1004 1045 1045 1170 1170 1170 1101 1120 1170 1170 1170 949))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/models/plan.rb"
+  "plan.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode linum-mode)
+  5085
+  '(4734 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1 183 158 168 3835 598 3741 7679 1 3837 4080 3616 3429 3815 5085))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/services/forecasting/yearly_saving.rb"
+  "yearly_saving.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  2127
+  '(1852 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1152 1436 219 103 142 312 142 142 103 601 219 1442 1436 1162 1152 2127))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/helpers/plans_and_tariffs_helper.rb"
+  "plans_and_tariffs_helper.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  703
+  '(174 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (703))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/helpers/cheapest_tariffs_helper.rb"
+  "cheapest_tariffs_helper.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  673
+  '(410 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (260 314 260 673))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/uk/app/views/cheapest_tariffs/best_rates.html.erb"
+  "best_rates.html.erb"
+  'html-mode
+  '(projectile-mode auto-revert-mode)
+  3019
+  '(2980 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3195 107 107 3195 3198 3195 3195 3196 2980 2980))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/controllers/rates_changes_controller.rb"
+  "rates_changes_controller.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  890
+  '(890 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/concepts/features/segments/brands_group.rb"
+  "brands_group.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode linum-mode)
+  222
+  '(292 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (319 319 277 309 234 234 309 319 76 169 207 319 319 319 319 222))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/spec/concepts/features/segments/consumer_group_spec.rb"
+  "consumer_group_spec.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-mode projectile-mode auto-revert-mode)
+  1116
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/db/migrate/20190107024920_create_cheapest_tariff_all_brands_release_toggle.rb"
+  "20190107024920_create_cheapest_tariff_all_brands_release_toggle.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  291
+  '(184 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (160 160 154 160 215 160 154 160 185 124 125 215 154 246 215 291))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/concepts/features.rb"
+  "features.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode smerge-mode)
+  4814
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/concepts/features/segments.rb"
+  "segments.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  304
+  '(296 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (39 491 500 56 39 562 518 45 39 60 56 285 518 500 491 44))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/app/controllers/rates_controller.rb"
+  "rates_controller.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  1526
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/concepts/flipper_interface.rb"
+  "flipper_interface.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  85
+  '(67 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (674 67))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/models/brand.rb"
+  "brand.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  86
+  '(86 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (86 86 86 86 86 32 32 86 32 86))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/spec/concepts/features_spec.rb"
+  "features_spec.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-mode projectile-mode auto-revert-mode)
+  10002
+  '(8691 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (7908 7919 7908 8693 8691 10002))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/core/app/models/concerns/flippable.rb"
+  "flippable.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  39
+  '(56 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (39))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/db/migrate/20181210022102_create_urban_airship_staff_account_release_toggle.rb"
+  "20181210022102_create_urban_airship_staff_account_release_toggle.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  31
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (17 115 38 151 38 115 19 17 1))))
+
+(desktop-create-buffer 208
+  "/Users/riaandeklerk/project/powershop/config/initializers/configuration.rb"
+  "configuration.rb"
+  'ruby-mode
+  '(inf-ruby-minor-mode rspec-verifiable-mode projectile-mode auto-revert-mode)
+  6675
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (3389 3389))))
+
+(desktop-create-buffer 208
+  nil
+  "powershop"
+  'dired-mode
+  '(projectile-mode)
+  278
+  '(nil nil)
+  t
+  '("/Users/riaandeklerk/project/powershop/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  '(projectile-mode)
+  227
+  '(nil nil)
+  t
+  '("dir" "Top" nil)
+  '((tab-width . 8) (case-fold-search . t))
+  '((mark-ring nil)))
+
